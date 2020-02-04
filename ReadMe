@@ -1,3 +1,26 @@
+*************************************************
+ToolName - ResumeSelector.
+Version - beta-1.0
+*************************************************
+
+*************************************************
+Problem Statement - It will take a long time to shortlist the Profile based on keyskills.
+Consider where an HR[from IT sector , Hospital etc.] need to shortlist 10 resume from 100 of resume.
+Avgtime will be [10-15] min per resume
+*************************************************
+
+*************************************************
+Tool - ResumeSelector will shortlist profile based on different factor like Keyskills , Reliability etc 
+and will generate Strength which a HR can filter based on Total Exp , Keyskills.
+*************************************************
+
+*************************************************
+Available in both Windows and Linux
+Developed in Java-1.8
+Developed By - Shivam Maralay
+*************************************************
+
+
 Problem Statement - Resume Selector is created to shortlist the resumes as per the required criteria from a bunch of resume kept in a folder.
 
 
