@@ -1,0 +1,19 @@
+Enhacement and Errors 
+1. More Good UI
+2. based on comma not space - working on space as well
+3. email id regular expression - Double Check
+4. years of working not included yrs also check for 4.3 and 4.32 2 place of decimal not checked.
+5. some case percentage shows more than 100 % - handle that
+6. as of now tool is not reading all the files -> sort them and showcase the top 10 resume [increase the limit]
+7. Create the list in text or excel with essence value.
+8. Error 
+org.apache.poi.POIXMLException: org.apache.poi.openxml4j.exceptions.InvalidFormatException: Can't read content types part !
+SEVERE: OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+Feb 13, 2020 2:51:35 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+SEVERE: OpenType Layout tables used in font ABCEEE+Georgia-Bold are not implemented in PDFBox and will be ignored
+Feb 13, 2020 3:16:53 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+SEVERE: OpenType Layout tables used in font CIDFont+F4 are not implemented in PDFBox and will be ignored
+
+Enhancement -
+1. fetch mail from outlook - based on keywords.
+2. delete on the tool itself - checkbox and delete 
